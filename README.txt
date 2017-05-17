@@ -1,0 +1,1 @@
+Projeto de desenvolvimento mobile, utilizando cross plataform e Google Cloud Platform
